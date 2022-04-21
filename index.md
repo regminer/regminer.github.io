@@ -4,9 +4,7 @@ layout: page
 
 ## RegMiner
 
-This site is meant to serve as a directory for the amazing content the
-community has created around the Data Science Specialization. If you are
-interested in contributing [click here](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io#contributing).
+[![RegMiner Data Platform](https://res.cloudinary.com/marcomontalbano/image/upload/v1650532218/video_to_markdown/images/youtube--QtqS8f2yApc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/QtqS8f2yApc "RegMiner Data Platform")
 
 1. [The Data Scientist’s Toolbox](/toolbox/)
 2. [R Programming](/rprog/)
