@@ -2,7 +2,6 @@
 layout: page
 ---
 
-# RegMiner
 ## RegMiner Data Platform
 As shown in the video, you can observe bugs, run tests, and find recommended critical changes (bug-introducing/fixing changes) on our provided [site](http://101.42.233.129/regression/).
 
