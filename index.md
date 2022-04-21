@@ -1,5 +1,5 @@
 ---
-title: "RegMiner"
+title: "Home"
 layout: page
 ---
 
